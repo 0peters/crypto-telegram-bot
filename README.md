@@ -1,4 +1,4 @@
-Código modificado para apresentar cotações em BRL e também adicionado "Action" para testar dentro do GitHub.
+Código modificado para apresentar cotações em BRL e também adicionado Workflows para testar dentro do GitHub.
 
 VERSION BASED ON REPOSITORY BELOW:
 
