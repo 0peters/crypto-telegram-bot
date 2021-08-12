@@ -1,5 +1,6 @@
-VERSION BASED ON REPOSITORY ABOVE:
+Código modificado para apresentar cotações em BRL e também adicionado "Action" para testar dentro do GitHub.
 
+VERSION BASED ON REPOSITORY BELOW:
 
 # Crypto Telegram Bot
 
