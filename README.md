@@ -1,3 +1,6 @@
+VERSION BASED ON REPOSITORY ABOVE:
+
+
 # Crypto Telegram Bot
 
 This repository contains the code for the aricle [How to create a Telegram Crypto Bot in Javascript](https://olefyrenko.com/blog/how-to-create-a-telegram-crypto-bot-in-javascript) in my blog.
