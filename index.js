@@ -40,7 +40,7 @@ bot.on("message", (msg) => {
 
   switch (msg.text) {
     case "/start":
-      bot.sendMessage(chatId, "Hi there! I am Alice Crypto Bot.");
+      bot.sendMessage(chatId, "Olá! Eu um Bot de cotação de criptomoedas em reais.\nBasta usar o comando com a sigla da moeda: /price SIGLA");
       break;
 
     default:
