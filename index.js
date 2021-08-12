@@ -25,7 +25,7 @@ bot.onText(/\/price (.+)/, (msg, data) => {
   bot.sendMessage(chatId, "Wait...");
 
   // data[1] can be single token (i.e. "BTC") or pair ("ETH BTC")
-  const [cryptoToken1, cryptoToken2 = "USDT"] = data[1].split(" ");
+  const [cryptoToken1, cryptoToken2 = "BRL"] = data[1].split(" ");
 
   binanceClient
     .avgPrice({ symbol: `${cryptoToken1}${cryptoToken2}`.toUpperCase() }) // example, { symbol: "BTCUSTD" }
