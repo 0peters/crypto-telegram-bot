@@ -7,6 +7,6 @@
  *
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
  */
-export const formatMoney = (value, currency = "USD", locale = "en-US") => {
+export const formatMoney = (value, currency = "BRL", locale = "pt-BR") => {
   return Intl.NumberFormat(locale, { style: "currency", currencyDisplay: "symbol", currency }).format(value);
 };
