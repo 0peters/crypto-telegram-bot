@@ -8,6 +8,8 @@ This repository contains the code for the aricle [How to create a Telegram Crypt
 
 ## Env variables
 
+### Com a modificação feita por mim, as variáveis de ambiente (env) podem ser declaradas como SECRETS no GitHub. ###
+
 In order to launch the project you need to obtain the API keys from Binance and Telegram
 
 - For Binance - register [here](http://bit.ly/binance-telegram-bot) (referral link). Then generate the keys on [API Management](https://www.binance.com/en/my/settings/api-management) page.
