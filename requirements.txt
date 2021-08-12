@@ -1,0 +1,3 @@
+dotenv
+telegram-bot-api
+node-binance-api
